@@ -35,7 +35,8 @@ Geospatial context API — properties enriched with location intelligence scores
 ---
 
 ## Stack
-
+| | |
+|---|---|
 | **Languages** | Python, JavaScript, SQL |
 | **Backend** | FastAPI, REST APIs |
 | **Databases** | PostgreSQL, PostGIS |
