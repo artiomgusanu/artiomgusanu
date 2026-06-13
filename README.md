@@ -17,11 +17,8 @@ Python · FastAPI · PostgreSQL · PostGIS · Redis · Docker
 I build backend systems that turn complex data into useful products — geospatial APIs, data pipelines, and automation tools.
 
 → Geospatial data systems (PostGIS, MapLibre, OpenStreetMap)
-
 → Backend APIs with FastAPI and PostgreSQL
-
 → Data pipelines and web scraping
-
 → AI integrations in data systems (currently learning)
 
 Currently working as a freelance backend developer, building a real estate intelligence platform from the ground up — architecture, data pipelines, geospatial database, and backend API.
