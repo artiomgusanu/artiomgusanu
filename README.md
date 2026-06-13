@@ -4,7 +4,7 @@
 
 **Backend & Data Systems Engineer**
 
-Python · FastAPI · PostgreSQL · PostGIS · Redis · Docker
+Python · FastAPI · PostgreSQL · PostGIS · Docker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Open%20to%20Internship-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artiomgusanu/)
 
@@ -36,8 +36,6 @@ Geospatial context API — properties enriched with location intelligence scores
 
 ## Stack
 
-| | |
-|---|---|
 | **Languages** | Python, JavaScript, SQL |
 | **Backend** | FastAPI, REST APIs |
 | **Databases** | PostgreSQL, PostGIS |
@@ -51,7 +49,7 @@ Geospatial context API — properties enriched with location intelligence scores
 
 - 🎓 Studying Computer Engineering at Instituto Politécnico de Santarém (2025–2027)
 - 💼 Freelance backend developer at Londublis
-- 🌍 Open to Erasmus internship opportunities (2026) — backend, data, automation
+- 🌍 Open to Erasmus internship opportunities (2027) — backend, data, automation
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/artiomgusanu/)
 
 </div>
