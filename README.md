@@ -57,7 +57,7 @@ My areas of interest include:
 
 ## Background
 
-- 🎓 BSc in Computer Engineering — Instituto Politécnico de Santarém.
+- 🎓 BSc in Computer Engineering — Universidade Politécnico de Santarém.
 - 💻 Professional experience in backend development and data-driven applications.
 - 🌍 Interested in international opportunities and an Erasmus internship in 2027.
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/artiomgusanu/)
