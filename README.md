@@ -1,9 +1,10 @@
 <div align="center">
 
 # Artiom Gusanu
-**Backend Engineer & AI Automation**
 
-Python · FastAPI · PostgreSQL · PostGIS · Docker · Ollama · LangChain
+**Backend Development · Data Engineering · Applied AI**
+
+Python · FastAPI · PostgreSQL · PostGIS · SQL · Docker · LLMs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artiomgusanu/)
 
@@ -11,49 +12,60 @@ Python · FastAPI · PostgreSQL · PostGIS · Docker · Ollama · LangChain
 
 ---
 
-## What I build
+## About Me
 
-I build backend systems and AI-powered automation tools that solve real business problems.
+I'm a Computer Engineering student at Instituto Politécnico de Santarém, with hands-on experience in backend development, data engineering, geospatial systems, and AI-assisted data processing.
 
-→ Local AI chatbots with RAG (no cloud, no API costs, GDPR-friendly)
-→ Geospatial APIs and data pipelines
-→ Backend APIs with FastAPI and PostgreSQL
-→ Web scraping and ETL pipelines
+My work focuses on building software systems that collect, process, and transform data into useful applications.
 
-Currently building AI automation solutions for Portuguese SMEs — chatbots, document intelligence, and workflow automation.
+I'm particularly interested in the intersection of backend engineering, data infrastructure, and artificial intelligence — developing reliable applications that integrate APIs, data pipelines, and language models.
 
----
+Currently, I'm strengthening my software engineering foundations and developing practical AI engineering skills.
 
-## Featured Projects
+## Technical Focus
 
-### [Private Local AI Assistant](https://github.com/artiomgusanu/private-local-ia)
-AI assistant that answers questions about internal documents — runs 100% locally, no cloud, no OpenAI, GDPR-compliant.
-`Python` `Ollama` `LangChain` `ChromaDB` `Streamlit`
+- **Backend Engineering:** Building REST APIs and backend services with Python and FastAPI.
+- **Data Engineering:** Developing ETL pipelines, web scraping workflows, and data integration processes.
+- **Databases:** Designing relational data structures and working with PostgreSQL, PostGIS, MySQL, and SQL.
+- **Geospatial Systems:** Processing spatial data using PostGIS and OpenStreetMap datasets.
+- **Applied AI:** Exploring LLM integration, local inference, document processing, and AI-assisted automation.
+- **Development Practices:** Version control with Git and containerisation with Docker.
 
-### [GeoInsight API](https://github.com/artiomgusanu/geoinsight-api)
-Geospatial context API — properties enriched with location intelligence scores based on proximity to transport, healthcare, education, leisure and commerce.
-`Python` `FastAPI` `PostgreSQL` `PostGIS` `Docker`
+## Tech Stack
 
----
-
-## Stack
-
-| | |
+| Category | Technologies |
 |---|---|
-| **Languages** | Python, JavaScript, SQL |
-| **Backend** | FastAPI, REST APIs |
-| **Databases** | PostgreSQL, PostGIS |
-| **Infra** | Docker, GitHub Actions |
-| **Geospatial** | PostGIS, MapLibre, OpenStreetMap |
-| **AI & Automation** | Ollama, LangChain, ChromaDB, Flowise, Groq |
-| **Other** | Redis, Web Scraping, ETL Pipelines |
+| Languages | Python, JavaScript, SQL, Java |
+| Backend | FastAPI, REST APIs |
+| Databases | PostgreSQL, PostGIS, MySQL |
+| Data Engineering | ETL, Web Scraping, Data Integration |
+| Geospatial | PostGIS, OpenStreetMap, MapLibre |
+| AI & LLMs | Ollama, LangChain, ChromaDB |
+| Infrastructure & Tools | Docker, Git, GitHub Actions |
+
+## Current Direction
+
+I'm focused on developing practical AI engineering capabilities while continuing to improve my backend and data engineering skills.
+
+My areas of interest include:
+
+- Building reliable applications powered by large language models.
+- Developing local AI systems and document intelligence workflows.
+- Designing data pipelines that support AI applications.
+- Exploring agentic systems and workflow automation.
+- Building and documenting end-to-end projects with clear technical decisions and reproducible results.
+
+## Background
+
+- 🎓 BSc in Computer Engineering — Instituto Politécnico de Santarém.
+- 💻 Professional experience in backend development and data-driven applications.
+- 🌍 Interested in international opportunities and an Erasmus internship in 2027.
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/artiomgusanu/)
 
 ---
 
-## Currently
+<div align="center">
 
-- 🎓 Studying Computer Engineering at Instituto Politécnico de Santarém (2025–2027)
-- 💼 Freelance Backend Engineer & AI Automation at Londublis
-- 🤖 Building local AI chatbots for Portuguese SMEs
-- 🌍 Open to Erasmus internship opportunities (2027) — backend, data, AI automation
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/artiomgusanu/)
+*Building software, working with data, and learning to engineer useful AI systems.*
+
+</div>
